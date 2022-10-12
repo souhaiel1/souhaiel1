@@ -1,6 +1,6 @@
 ### Hello 👋 I am Souhaiel BenSalem ! 
 - You can reach me through my [gmail](mailto:souhaiel23bnsalem@gmail.com)  , [INSA Lyon academic email](mailto:souhalel.ben-salem@insa-lyon.fr) or my  [Grenoble INP academic email](mailto:souhaiel.ben-salem@grenoble-inp.org)
-- :school: I am a MSc student majoring in autonomous robotics and AI at [Grenoble INP](https://www.grenoble-inp.fr/), [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/english/) and currently an intern at the CITI-INRIA Lab as a member of [INRIA's Chroma team](https://team.inria.fr/chroma/en/), doing research in Reinforcement Learning.
+- :school: I am a MSc student majoring in Mathematics, Vision and AI at  [ENS Paris Saclay](https://ens-paris-saclay.fr//), [Paris Saclay university](https://www.universite-paris-saclay.fr/en/) and ex-intern at the CITI-INRIA Lab as a member of [INRIA's Chroma team](https://team.inria.fr/chroma/en/), doing research in Reinforcement Learning.
 - :books: I obtained a Diplôme d'Ingénieur (Engineering Degree) in Robotics and Mechatronics from [The university of Carthage](http://www.ucar.rnu.tn/), Tunisia, in 2021 and was ranked 1st among my peers.
 
 - ⚡ Fun fact: I enjoy Reverse-Engineering as much as I enjoy engineering.
