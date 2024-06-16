@@ -1,7 +1,7 @@
 ### Hello 👋 I am Souhaiel BenSalem ! 
 - You can reach me through my [gmail](mailto:souhaiel23bnsalem@gmail.com)  or my [ENS Paris Saclay academic email](mailto:souhaiel.ben_salem@ens-paris-saclay.fr) 
 - :school: I am currently a MSc student majoring in Mathematics, Vision and AI at  [ENS Paris Saclay](https://ens-paris-saclay.fr//), [Paris Saclay university](https://www.universite-paris-saclay.fr/en/) and a research intern at [Inria Paris](https://www.inria.fr/fr) within the [Astra-Vision group](https://astra-vision.github.io/) working jointly with researchers from [Valeo.ai](https://www.valeo.com/en/valeo-ai/) .I am also a former intern at [INRIA's Chroma team](https://team.inria.fr/chroma/en/), where I conducted research in (multi-agent) Reinforcement Learning.
-- :books: I obtained a MSc degree from [Grenoble INP](https://www.grenoble-inp.fr/) in Mobile, Autonomous Robotics Systems in 2022 , and prior to that, I earned an  Engineering Degree in Robotics and Mechatronics from [The university of Carthage](http://www.ucar.rnu.tn/), Tunisia, in 2021 and was ranked 1st among my peers.
+- :books: I obtained a MSc degree from [Grenoble INP](https://www.grenoble-inp.fr/) in Mobile, Autonomous Robotic Systems in 2022 , and prior to that, I earned an  Engineering Degree in Robotics and Mechatronics from [The university of Carthage](http://www.ucar.rnu.tn/), Tunisia, in 2021 and was ranked 1st among my peers.
 
 - ⚡ Fun fact: I enjoy Reverse-Engineering as much as I enjoy engineering.
 
