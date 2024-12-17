@@ -1,6 +1,6 @@
 ### Hello 👋 I am Souhaiel BenSalem ! 
 
- 🚀 **Check out my personal website:** [https://souhaiel1.github.io](https://souhaiel1.github.io/)    🌐  
+ 🚀 **My personal website:** [https://souhaiel1.github.io](https://souhaiel1.github.io/)    🌐  
 
 
 - You can reach me through my [gmail](mailto:souhaiel23bnsalem@gmail.com)  or my [ENS Paris Saclay academic email](mailto:souhaiel.ben_salem@ens-paris-saclay.fr) 
