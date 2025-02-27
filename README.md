@@ -1,7 +1,6 @@
 ### Hello 👋 I am Souhaiel BenSalem ! 
 
-## 🚀 **my personal website:**  
-### 🌟 [https://souhaiel1.github.io](https://souhaiel1.github.io/) 🌟  
+🚀 My personal website: [souhaiel1.github.io](https://souhaiel1.github.io/)
 
 ---    
 
